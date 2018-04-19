@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Logout"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="111.615">
+  <properties />
+  
+  
+            <testcase name="createNewCustomerWithMandatoryDetails" time="31.278" classname="com.mobizio.testscript.CreateNewCustomerWithMandatoryDetails" />
+                <testcase name="createNewCustomerWithMandatoryDetails" time="80.337" classname="com.mobizio.testscript.CreateNewCustomerWithMandatoryDetails" />
+      
+</testsuite>
