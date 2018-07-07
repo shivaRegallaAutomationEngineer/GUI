@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109412" started-at="2018-06-27T13:09:25Z" finished-at="2018-06-27T13:11:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="109412" started-at="2018-06-27T13:09:25Z" finished-at="2018-06-27T13:11:15Z">
+      <class name="HomePage.FirstSeleniumProgram">
+        <test-method status="PASS" signature="Setup2()[pri:0, instance:HomePage.FirstSeleniumProgram@18a00e3]" name="Setup2" duration-ms="70223" started-at="2018-06-27T18:39:26Z" finished-at="2018-06-27T18:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup2 -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:HomePage.FirstSeleniumProgram@18a00e3]" name="Setup" duration-ms="108332" started-at="2018-06-27T18:39:26Z" finished-at="2018-06-27T18:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+      </class> <!-- HomePage.FirstSeleniumProgram -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

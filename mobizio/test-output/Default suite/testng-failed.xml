@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.scorm.testscript.VerifyUploadPackage">
+      <class name="com.scorm.testscript.CreateCourseFromScromContent">
         <methods>
+          <include name="verifyCourseLesson"/>
           <include name="setUp"/>
           <include name="tearDownSuite"/>
-          <include name="uploadPackage"/>
           <include name="afterMainMethod"/>
         </methods>
-      </class> <!-- com.scorm.testscript.VerifyUploadPackage -->
+      </class> <!-- com.scorm.testscript.CreateCourseFromScromContent -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
